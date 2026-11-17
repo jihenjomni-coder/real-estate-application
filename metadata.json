@@ -1,0 +1,6 @@
+{
+  "name": "Harbour & Crest Dubai",
+  "description": "Full-suite Dubai real estate brokerage, property sales, rentals, and property management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
